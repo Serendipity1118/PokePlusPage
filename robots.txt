@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Serendipity1118.github.io/PokePlusPage/sitemap.xml
